@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Nov 06 23:03:15 BDT 2023","Mon Nov 06 23:03:21 BDT 2023","5789","App automation","Calculator App Automation","CalcTestRunner","CalcTestRunner","doSum","Sum of 2 numbers",""
+"passed","Mon Nov 06 23:03:27 BDT 2023","Mon Nov 06 23:03:32 BDT 2023","4382","App automation","Calculator App Automation","CalcTestRunner","CalcTestRunner","doMulti","Multiple of 2 numbers",""
+"passed","Mon Nov 06 23:03:22 BDT 2023","Mon Nov 06 23:03:27 BDT 2023","4279","App automation","Calculator App Automation","CalcTestRunner","CalcTestRunner","doSub","Sub of 2 numbers",""
+"passed","Mon Nov 06 23:03:32 BDT 2023","Mon Nov 06 23:03:37 BDT 2023","4327","App automation","Calculator App Automation","CalcTestRunner","CalcTestRunner","doDiv","Division of 2 numbers",""

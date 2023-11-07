@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalcTestRunner" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-11-06T17:03:15" hostname="DESKTOP-RB74KS9" time="21.325">
+  <properties/>
+  <testcase name="doSum" classname="CalcTestRunner" time="5.873"/>
+  <testcase name="doSub" classname="CalcTestRunner" time="4.282"/>
+  <testcase name="doMulti" classname="CalcTestRunner" time="4.385"/>
+  <testcase name="doDiv" classname="CalcTestRunner" time="4.329"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
